@@ -1,3 +1,6 @@
+install:
+	uv sync
+
 build:
 	uv build
 
@@ -6,3 +9,6 @@ package-install:
 
 gendiff:
 	uv run gendiff
+
+lint:
+	uv run ruff check gendiff

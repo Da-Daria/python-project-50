@@ -1,0 +1,8 @@
+version: "3"
+checks:
+  duplication:
+    enabled: true
+  complexity:
+    enabled: true
+  test_coverage:
+    enabled: true

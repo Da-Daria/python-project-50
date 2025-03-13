@@ -11,4 +11,4 @@ gendiff:
 	uv run gendiff
 
 lint:
-	uv run ruff check gendiff
+	flake8 .

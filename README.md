@@ -3,3 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/c190f4e2fcf6f5d92d34/maintainability)](https://codeclimate.com/github/Da-Daria/python-project-50/maintainability)
 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c190f4e2fcf6f5d92d34/test_coverage)](https://codeclimate.com/github/Da-Daria/python-project-50/test_coverage)
